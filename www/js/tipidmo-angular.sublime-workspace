@@ -1,0 +1,614 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sidebar",
+				"sideBarRightHeight"
+			],
+			[
+				"con",
+				"content-center"
+			],
+			[
+				"content",
+				"contentwrapper"
+			],
+			[
+				"conte",
+				"contentCenter"
+			],
+			[
+				"return",
+				"returnVal"
+			],
+			[
+				"append",
+				"appendDayTotal"
+			],
+			[
+				"angular",
+				"angularScope"
+			],
+			[
+				"re",
+				"retrieveData"
+			],
+			[
+				"store",
+				"storedValue"
+			],
+			[
+				"total",
+				"totalAmount"
+			],
+			[
+				"sto",
+				"storedName"
+			],
+			[
+				"clear",
+				"clearDialog"
+			],
+			[
+				"app",
+				"app_calendar"
+			],
+			[
+				"stored",
+				"storedValue"
+			],
+			[
+				"sotre",
+				"storedName"
+			],
+			[
+				"get",
+				"getItem"
+			],
+			[
+				"promp",
+				"promptCallback"
+			],
+			[
+				"fea",
+				"featureImageHeight"
+			],
+			[
+				"fe",
+				"featureImageHeight"
+			],
+			[
+				"foo",
+				"footerHTML"
+			],
+			[
+				"three",
+				"three-quarter-width"
+			],
+			[
+				"default",
+				"default_session"
+			],
+			[
+				"ass",
+				"assertCssValue"
+			],
+			[
+				"myco",
+				"mycon"
+			],
+			[
+				"eval",
+				"evaluateScript"
+			],
+			[
+				"print",
+				"printf"
+			],
+			[
+				"wrapper",
+				"wrapperClass"
+			],
+			[
+				"htmlspe",
+				"htmlspecialchars_decode"
+			],
+			[
+				"spinn",
+				"spinnerAlive"
+			],
+			[
+				"research",
+				"researchArea"
+			],
+			[
+				"research_are",
+				"research_area_filter"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 369.0,
+		"selected_items":
+		[
+			[
+				"pi",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: List Packages"
+			],
+			[
+				"check",
+				"Git: Checkout Current File"
+			],
+			[
+				"stat",
+				"Git: Status"
+			],
+			[
+				"status",
+				"Git: Status"
+			],
+			[
+				"commi",
+				"Git: Commit"
+			],
+			[
+				"add",
+				"Git: Add Current File"
+			],
+			[
+				"commit",
+				"Git: Commit"
+			],
+			[
+				"chec",
+				"Git: Checkout Current File"
+			],
+			[
+				"qui",
+				"Git: Quick Commit"
+			],
+			[
+				"comm",
+				"Git: Commit"
+			],
+			[
+				"statu",
+				"Git: Status"
+			],
+			[
+				"sta",
+				"Git: Status"
+			],
+			[
+				"push",
+				"Git: Push Current Branch"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/teody/Webprojects/astrateg/node-46.txt",
+		"/home/teody/Webprojects/astrateg/node-67.txt",
+		"/home/teody/Webprojects/astrateg/node-66.txt",
+		"/home/teody/Webprojects/astrateg/node-65.txt",
+		"/home/teody/Webprojects/astrateg/node-60.txt",
+		"/home/teody/Webprojects/astrateg/node-56.txt",
+		"/home/teody/Webprojects/astrateg/node-54.txt",
+		"/home/teody/Webprojects/astrateg/node-50.txt",
+		"/home/teody/Webprojects/astrateg/node-44.5xt",
+		"/home/teody/Webprojects/astrateg/node-38.txt",
+		"/home/teody/Webprojects/astrateg/node-36.txt",
+		"/home/teody/Webprojects/astrateg/node-34.txt",
+		"/home/teody/Webprojects/astrateg/node-31.txt",
+		"/home/teody/Webprojects/astrateg/cometousa2/sites/fliper4u.co.il/themes/fliper/styles/fliper.scss",
+		"/home/teody/Webprojects/astrateg/cometousa2/sites/all/themes/mmgame/scripts/script.js",
+		"/home/teody/Webprojects/astrateg/cometousa2/sites/fliper4u.co.il/themes/fliper/scripts/fliper.js",
+		"/home/teody/Webprojects/astrateg/cometousa2/sites/all/themes/mmgame/templates/page.tpl.php",
+		"/home/teody/Webprojects/astrateg/things-to-do-mmgames.txt",
+		"/home/teody/Webprojects/astrateg/cometousa2/sites/all/themes/mmgame/templates/html.tpl.php",
+		"/var/www/html/tb_nex/tb_nex/profiles/themebrain_profile/themebrain_profile.info",
+		"/var/www/html/pechanga-tbnex/profiles/themebrain_profile/themebrain_profile.info",
+		"/var/www/html/pechanga-tbnex/profiles/themebrain_profile/themebrain_profile.profile",
+		"/var/www/html/tb_nex/tb_nex/profiles/themebrain_profile/themebrain_profile.profile",
+		"/var/log/apache2/error.log",
+		"/home/teody/Webprojects/vdd/data/pechanga-tbnex/modules/system/system.module",
+		"/home/teody/Webprojects/vdd/data/pechanga-tbnex/includes/common.inc",
+		"/home/teody/MobileProjects/tipidmo/www/css/tipidmo.css",
+		"/home/teody/MobileProjects/tipidmo/www/js/index.js",
+		"/home/teody/MobileProjects/tipidmo/www/js/tipidmo-angular.js",
+		"/home/teody/MobileProjects/tipidmo/www/js/tipidmo-jquery.js",
+		"/home/teody/MobileProjects/route-planner/js/route-planner-widget.js",
+		"/home/teody/MobileProjects/tipidmo/www/index.html",
+		"/home/teody/MobileProjects/tipidmo/config.xml",
+		"/home/teody/MobileProjects/tipidmo/.cordova/config.json",
+		"/home/teody/MobileProjects/tipidmo/www/css/index.css",
+		"/home/teody/MobileProjects/tipidmo/www/img/logo.png",
+		"/home/teody/Downloads/mm-games-front-images-content",
+		"/home/teody/Downloads/mmgames-footer",
+		"/home/teody/Webprojects/astrateg/cometousa2/sites/fliper4u.co.il/themes/fliper/templates/html.tpl.php",
+		"/home/teody/Webprojects/vdd/data/pechanganet/docroot/sites/all/modules/custom/pcarousel/pcarousel.module",
+		"/home/teody/Webprojects/vdd/data/pechanganet/docroot/sites/all/modules/ev_ext_link_page_extensions/ev_ext_link_page_extensions.info",
+		"/home/teody/Webprojects/vdd/data/pechanganet/docroot/sites/all/modules/panels/panels.module",
+		"/home/teody/Webprojects/vdd/data/pechanganet/docroot/sites/all/modules/ev_ext_link_page_extensions/ev_ext_link_page_extensions.module",
+		"/home/teody/Webprojects/vdd/data/pechanganet/docroot/sites/all/modules/custom/pcarousel/pcarousel-view.tpl.php",
+		"/home/teody/Webprojects/vdd/data/pechanganet/docroot/sites/all/modules/custom/pcarousel/js/pcarousel.js",
+		"/home/teody/Desktop/mmgames-footer",
+		"/home/teody/Webprojects/astrateg/cometousa2/sites/all/themes/mmgame/styles/partials/_mmgames-responsive.scss",
+		"/home/teody/Webprojects/astrateg/cometousa2/sites/all/themes/mmgame/mmgame.info",
+		"/home/teody/Webprojects/astrateg/cometousa2/sites/all/themes/mmgame/styles/_mmgames-responsive.scss",
+		"/home/teody/Webprojects/astrateg/cometousa2/sites/all/themes/mmgame/styles/partials/README",
+		"/home/teody/Webprojects/astrateg/cometousa2/sites/all/themes/mmgame/styles/layout/desktop-first/sasson-base.scss",
+		"/home/teody/Webprojects/astrateg/cometousa2/sites/all/themes/mmgame/styles/style.css",
+		"/home/teody/Webprojects/astrateg/cometousa/sites/all/themes/fliper/styles/fliper.scss",
+		"/home/teody/Webprojects/astrateg/cometousa/sites/all/modules/responsive_navigation/templates/responsive_navigation.tpl.php",
+		"/home/teody/Webprojects/astrateg/cometousa/sites/all/themes/fliper/scripts/fliper.js",
+		"/home/teody/Webprojects/urban-institute/docroot/sites/all/modules/custom/search/urbaninstitute_search/js/urban_search.behaviors.js",
+		"/home/teody/Webprojects/astrateg/cometousa/sites/all/themes/fliper/templates/page--front.tpl.php",
+		"/home/teody/Webprojects/astrateg/cometousa/sites/all/themes/fliper/templates/page.tpl.php",
+		"/home/teody/Webprojects/astrateg/cometousa/sites/all/modules/responsive_navigation/js/responsive_navigation.js",
+		"/home/teody/Webprojects/astrateg/cometousa/sites/all/themes/fliper/fliper.info",
+		"/home/teody/Webprojects/astrateg/cometousa/sites/default/settings.php",
+		"/home/teody/Webprojects/vdd/data/elephantventures/sites/default/settings.php",
+		"/home/teody/Webprojects/astrateg/cometousa/sites/all/modules/responsive_navigation/README.txt",
+		"/home/teody/Webprojects/astrateg/cometousa/sites/all/themes/fliper/templates/html.tpl.php",
+		"/home/teody/Webprojects/astrateg/cometousa/sites/all/modules/responsive_navigation/responsive_navigation.module",
+		"/home/teody/Webprojects/astrateg/responsive-navigation/js/responsive_navigation.js",
+		"/home/teody/Webprojects/astrateg/cometousa/sites/all/modules/responsive_navigation/responsive_navigation.info",
+		"/home/teody/Webprojects/astrateg/cometousa/sites/all/modules/responsive_navigation/js/responsive_navigation.min.js",
+		"/home/teody/Webprojects/astrateg/cometousa/sites/all/themes/fliper/template.php",
+		"/home/teody/Webprojects/astrateg/cometousa/sites/fliper4u.dev/files/css/fliper.css",
+		"/home/teody/Webprojects/astrateg/cometousa/sites/all/themes/sasson/styles/sasson.scss",
+		"/home/teody/Webprojects/astrateg/cometousa/sites/all/themes/fliper/styles/partials/README",
+		"/home/teody/Webprojects/astrateg/cometousa/sites/all/themes/fliper/styles/partials/_home-page-responsive.scss",
+		"/home/teody/Webprojects/astrateg/cometousa/sites/all/themes/sasson/styles/theme-settings.css",
+		"/home/teody/Webprojects/astrateg/cometousa/sites/all/themes/Gal_Rosen_V2/sass/drgalrosen.global.scss",
+		"/home/teody/Webprojects/astrateg/cometousa/sites/all/themes/Gal_Rosen_V2/sass/responsive/_contact-responsive.scss",
+		"/home/teody/Webprojects/astrateg/cometousa/sites/all/themes/Gal_Rosen_V2/sass/responsive/_main-responsive.scss",
+		"/home/teody/Downloads/Mentored.03302015/PhoneGapApps/MyHomeworkAppTester/www/index.html",
+		"/home/teody/Webprojects/astrateg/cometousa/sites/all/modules/views/includes/view.inc",
+		"/home/teody/Webprojects/astrateg/cometousa/sites/all/modules/advagg/advagg.inc",
+		"/home/teody/Webprojects/astrateg/cometousa/sites/all/themes/Gal_Rosen_V2/js/articles-responsive.js",
+		"/home/teody/Webprojects/astrateg/cometousa/sites/all/themes/Gal_Rosen_V2/sass/responsive/_front-responsive.scss",
+		"/home/teody/Webprojects/astrateg/cometousa/sites/all/themes/Gal_Rosen_V2/sass/variables/_breakpoints.scss",
+		"/home/teody/Webprojects/astrateg/cometousa/sites/all/themes/Gal_Rosen_V2/sass/variables/_widths.scss",
+		"/home/teody/Webprojects/astrateg/cometousa/sites/all/themes/Gal_Rosen_V2/sass/responsive/_blocks.scss",
+		"/home/teody/Webprojects/astrateg/cometousa/sites/all/themes/Gal_Rosen_V2/sass/responsive/_certificates-responsive.scss",
+		"/home/teody/Webprojects/astrateg/cometousa/sites/all/themes/Gal_Rosen_V2/sass/variables/_mixins.scss",
+		"/home/teody/Webprojects/astrateg/cometousa/sites/all/themes/Gal_Rosen_V2/sass/drgalrosen.styles.scss",
+		"/home/teody/Webprojects/vdd/data/elephantventures/sites/all/themes/ev_agency/sass/partials/global/_breakpoints.scss",
+		"/home/teody/Webprojects/astrateg/cometousa/sites/all/themes/Gal_Rosen_V2/stylesheets/drgalrosen.global.css",
+		"/home/teody/Webprojects/astrateg/cometousa/sites/all/themes/Gal_Rosen_V2/templates/html.tpl.php",
+		"/home/teody/Webprojects/astrateg/cometousa/sites/all/themes/Gal_Rosen_V2/template.php",
+		"/home/teody/Webprojects/SublimeProjects/cometousa.sublime-project",
+		"/home/teody/Webprojects/vdd/data/elephantventures/sites/all/scripts/install.sh",
+		"/home/teody/Webprojects/vdd/data/elephantventures/sites/all/themes/argo/assets/css/style.css",
+		"/home/teody/Webprojects/vdd/data/elephantventures/sites/all/themes/ev_agency/sass/partials/components/pages/_user-register.scss",
+		"/home/teody/Webprojects/vdd/data/elephantventures/sites/all/themes/ev_agency/sass/partials/components/pages/_page_home.scss",
+		"/home/teody/Webprojects/vdd/data/elephantventures/sites/all/themes/ev_agency/ev_agency.info",
+		"/home/teody/Webprojects/vdd/data/elephantventures/modules/user/user.admin.inc",
+		"/home/teody/Webprojects/vdd/data/elephantventures/modules/user/user.module",
+		"/home/teody/automation-scripts/rebuild.sh",
+		"/home/teody/Webprojects/vdd/data/elephantventures/sites/all/themes/ev_agency/template.php",
+		"/home/teody/Webprojects/vdd/data/elephantventures/sites/all/themes/argo/template.php",
+		"/home/teody/Webprojects/vdd/data/elephantventures/sites/all/themes/argo/argo.info",
+		"/home/teody/Webprojects/vdd/data/elephantventures/sites/all/themes/argo/assets/css/responsive.css",
+		"/home/teody/Webprojects/vdd/data/elephantventures/sites/all/themes/ev_agency/sass/partials/components/system/_header_region.scss",
+		"/home/teody/Webprojects/vdd/data/elephantventures/sites/all/themes/ev_agency/page--front.tpl.php",
+		"/home/teody/Webprojects/vdd/data/elephantventures/sites/all/themes/ev_agency/tpl/html.tpl.php",
+		"/home/teody/Webprojects/vdd/data/elephantventures/sites/all/themes/ev_agency/tpl/page.tpl.php",
+		"/home/teody/Webprojects/vdd/data/elephantventures/sites/all/themes/ev_agency/tpl/page--front.tpl.php",
+		"/home/teody/Webprojects/vdd/data/elephantventures/sites/all/themes/ev_agency/tpl/switcher.tpl.php",
+		"/home/teody/Webprojects/vdd/data/elephantventures/sites/all/themes/argo/tpl/block.tpl.php",
+		"/home/teody/Webprojects/vdd/data/elephantventures/sites/all/themes/argo/theme-settings.php",
+		"/home/teody/Webprojects/vdd/data/elephantventures/sites/all/themes/ev_agency/sass/ev_agency.scss",
+		"/home/teody/Webprojects/vdd/data/elephantventures/sites/all/themes/ev_agency/templates/html.tpl.php",
+		"/home/teody/Webprojects/vdd/data/elephantventures/sites/all/themes/argo/tpl/page--front.tpl.php",
+		"/home/teody/Webprojects/vdd/data/elephantventures/sites/all/themes/ev_agency/templates/page--front.tpl.php",
+		"/home/teody/Webprojects/vdd/data/elephantventures/sites/all/themes/argo/tpl/html.tpl.php",
+		"/home/teody/Webprojects/vdd/data/elephantventures/sites/all/themes/argo/tpl/switcher.tpl.php",
+		"/home/teody/Desktop/_header_region.scss",
+		"/home/teody/Desktop/_breakpoints.scss",
+		"/home/teody/Webprojects/vdd/data/elephantventures/sites/all/tests/features/bootstrap/FeatureContext.php",
+		"/home/teody/Webprojects/vdd/data/elephantventures/sites/all/tests/features/bootstrap/ElephantVenturesBaseContext.php",
+		"/home/teody/Webprojects/astrateg/cometousa/sites/all/themes/Gal_Rosen_V2/Gal_Rosen_V2.info",
+		"/home/teody/Webprojects/astrateg/cometousa/sites/all/themes/Gal_Rosen_V2/drgalrosen-responsive.js",
+		"/home/teody/Webprojects/astrateg/cometousa/sites/all/themes/Gal_Rosen_V2/script.js",
+		"/home/teody/Webprojects/astrateg/cometousa/sites/all/modules/responsive_navigation/css/responsive_navigation.css",
+		"/home/teody/Webprojects/astrateg/cometousa/sites/all/themes/Gal_Rosen_V2/page.tpl.php"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/home/teody/Webprojects/urban-institute/docroot/sites/all"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"media-youtube-outer-wrapper",
+			"media-youtube-preview-wrapper",
+			"block-block-13",
+			".slideshow",
+			"responsive-video",
+			".sidebar-right",
+			"#block-webform-client-block-9",
+			"contentwrapper .content-center",
+			"pechanga-tbnex",
+			"DRUPAL_CRON_DEFAULT_THRESHOLD",
+			"console.log",
+			"body {",
+			"add",
+			"setMapLanguage",
+			"findROUTE",
+			"loadSettings",
+			"getItem",
+			"node-28",
+			".region-footer",
+			".footer",
+			"$vars",
+			"ev_ext_link_page_extensions_interstitial_frequency",
+			"ng-bind",
+			"localStorage.getItem",
+			"angular.element",
+			"trigger",
+			"node-28",
+			"content-center",
+			"sidebarleft",
+			"sidebarleftr",
+			".contentwrapper",
+			"slideshow",
+			"headercol2",
+			"headerwrapper",
+			"headermenu",
+			"שרית דדון - סייעת",
+			"#block-webform-client-block-9 ",
+			".block-webform",
+			".block-webform form",
+			"block-webform-client-block-9 ",
+			"74",
+			"960",
+			"head-part",
+			"featured.has",
+			"featured",
+			"responsive-button",
+			"two-sidebars",
+			"responsive-image",
+			"fast_404",
+			".two-sidebars #main .contents",
+			"#footer",
+			"responsive_video_style_phone",
+			"<aside",
+			"responsive",
+			"httprl_queue_background_callback",
+			"smallScreen",
+			"user_login_default_validators",
+			"user_login",
+			"user_login_finalize",
+			"user_login_submit",
+			"user_login",
+			"edit-name",
+			"style.css",
+			".css",
+			"bulb",
+			"/tpl",
+			"tpl",
+			"mr10",
+			"fl ",
+			"ml10",
+			"fr ",
+			"frw",
+			"h3900",
+			"flw",
+			"frw",
+			"fl",
+			"mr10",
+			"<body",
+			"could not find ",
+			"could not find header",
+			"could not find header wrapper",
+			"scenario",
+			"before",
+			"wait",
+			"ishouldsee",
+			"node/add",
+			"getMink",
+			"logo",
+			"homepage",
+			"elephant",
+			"drush",
+			"iShouldSee",
+			"admnistrator",
+			"given",
+			"add",
+			"src",
+			"grouped_results",
+			"power_search_results",
+			"theme_",
+			"author-header",
+			"trigger",
+			"initializeSearchResultHeader",
+			"ajax_count",
+			"mapToNodes",
+			"ajax_count",
+			"search/js/count",
+			"ajax_count",
+			"react_see_results",
+			"power_search_results_btn",
+			"power-search-btn",
+			"location.search",
+			"power_search_results_header_display",
+			"initialize_power_search_results",
+			"search_keyword_changed",
+			"ajax_count",
+			"search/js/count",
+			"sear/js/count",
+			"collapse_mobile_search",
+			"search_button",
+			"collapse_mobile_search",
+			"start_search",
+			"power_search_results_btn",
+			"power-search-btn",
+			"start_search",
+			"keyword-search-icon",
+			"start_search",
+			"search_start",
+			"search_button"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"ml10",
+			"fr ",
+			"mr10",
+			"fl ",
+			"flw",
+			"frw",
+			"flw",
+			"fr",
+			"ml10"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "tipidmo-angular.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 367.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

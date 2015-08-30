@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<!--
+    Copyright (c) 2012-2014 Adobe Systems Incorporated. All rights reserved.
+
+    Licensed to the Apache Software Foundation (ASF) under one
+    or more contributor license agreements.  See the NOTICE file
+    distributed with this work for additional information
+    regarding copyright ownership.  The ASF licenses this file
+    to you under the Apache License, Version 2.0 (the
+    "License"); you may not use this file except in compliance
+    with the License.  You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing,
+    software distributed under the License is distributed on an
+    "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+     KIND, either express or implied.  See the License for the
+    specific language governing permissions and limitations
+    under the License.
+-->
+<html ng-app="myApp">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="format-detection" content="telephone=no" />
+        <meta name="msapplication-tap-highlight" content="no" />
+        <!-- WARNING: for iOS 7, remove the width=device-width and height=device-height attributes. See https://issues.apache.org/jira/browse/CB-4323 -->
+        <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width, height=device-height, target-densitydpi=device-dpi" />
+        <!-- link rel="stylesheet" type="text/css" href="css/index.css" / -->
+        <link rel="stylesheet" type="text/css" href="css/tipidmo.css" />
+        <link rel="stylesheet" type="text/css" href="css/fullcalendar.min.css" />
+        <title>TipidMo</title>
+    </head>
+    <body>
+        <div class="app">
+            <h1>PhoneGap</h1>
+            <div id="deviceready" class="blink">
+                <p class="event listening">Connecting to Device</p>
+                <p class="event received">Device is Ready</p>
+            </div>
+        </div>
+
+        <header>
+          <h1>TM</h1>
+          <h5>track your expenses and be kuripot!</h5>
+        </header>
+
+        <div id="controller" ng-controller="TipidMoCtrl">
+          <section>
+            <div id="calendar"></div>
+          </section>
+
+          <a id="add" href="#dialog">add</a>
+
+          <div id="dialog">
+            <div class="inner">
+              <header>
+                <h3>Add your expenses</h3>
+              </header>
+
+              <div class="flw100b mb10">
+                <label class="block">{{app_configs.currencySymbol}} Amount:</label>
+                <input type="text" ng-model="app_dialog.amount" placeholder="0" />
+                <summary>should be a numeric value</summary>
+              </div>
+
+              <div class="flw100b mb10">
+                <label class="block">Description:</label>
+                <textarea rows="4" cols="50" ng-model="app_dialog.description" placeholder="description..."></textarea>
+                <summary>put some description about your inputed expenses</summary>
+              </div>
+
+              <button ng-click="app_dialog.saveExpense()">Save</button>
+            </div>
+          </div>
+
+          <div id="lean_overlay"></div>
+        </div>
+
+        <script src="js/jquery.min.js"></script>
+        <script src="js/angular.min.js"></script>
+        <script src="js/moment.min.js"></script>
+        <script src="js/fullcalendar.min.js"></script>
+        <script src="cordova.js"></script>
+        <script src="js/jquery.leanModal.min.js"></script>
+        <script src="js/tipidmo-angular.js"></script>
+        <script src="js/tipidmo-jquery.js"></script>
+        <script src="js/index.js"></script>
+        <script type="text/javascript">
+            app.initialize();
+        </script>
+    </body>
+</html>

@@ -1,0 +1,247 @@
+.app {
+  display: none;
+}
+
+/**
+ * Usable classes
+ */
+.fl {
+  float: left;
+}
+
+.fr {
+  float: right;
+}
+
+.flw100b {
+  float: left;
+  width: 100%;
+  display: block;
+}
+
+.frw100b {
+  float: right;
+  width: 100%;
+  display: block;
+}
+
+.flw50b {
+  float: left;
+  width: 50%;
+  display: block;
+}
+
+.frw50b {
+  float: right;
+  width: 50%;
+  display: block;
+}
+
+.flw25b {
+  float: left;
+  width: 25%;
+  display: block;
+}
+
+.frw25b {
+  float: left;
+  width: 25%;
+  display: block;
+}
+
+.mt10 {
+  margin-top: 10px;
+}
+
+.mb10 {
+  margin-bottom: 10px;
+}
+
+.mr10 {
+  margin-right: 10px;
+}
+
+.ml10 {
+  margin-left: 10px;
+}
+
+.mt5 {
+  margin-top: 5px;
+}
+
+.mb5 {
+  margin-bottom: 5px;
+}
+
+.mr5 {
+  margin-right: 5px;
+}
+
+.ml5 {
+  margin-left: 5px;
+}
+
+.pt10 {
+  padding-top: 10px;
+}
+
+.pb10 {
+  padding-bottom: 10px;
+}
+
+.pr10 {
+  padding-right: 10px;
+}
+
+.pl10 {
+  padding-left: 10px;
+}
+
+.pt5 {
+  padding-top: 5px;
+}
+
+.pb5 {
+  padding-bottom: 5px;
+}
+
+.pr5 {
+  padding-right: 5px;
+}
+
+.pl5 {
+  padding-left: 5px;
+}
+
+.block {
+  display: block;
+}
+
+.p10 {
+  padding: 10px;
+}
+
+.m10 {
+  margin: 10px;
+}
+
+/**
+ * App styling
+ */
+@font-face {
+  font-family: OpenSansRegular;
+  src: url(fonts/OpenSans-Regular.ttf);
+}
+
+@font-face {
+  font-family: OpenSansSemibold;
+  src: url(fonts/OpenSans-Semibold.ttf);
+}
+
+@font-face {
+  font-family: OpenSansSemiboldItalic;
+  src: url(fonts/OpenSans-SemiboldItalic.ttf);
+}
+
+body {
+  font-family: OpenSansSemibold;
+  font-size: 100%;
+  background-color: #eee;
+  margin: 0;
+}
+
+#lean_overlay {
+  position: fixed;
+  z-index:100;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  background: #000;
+  display: none;
+}
+
+#controller {
+  padding: 0 10px 10px 10px;
+}
+
+#dialog {
+  display: none;
+  background-color: #fff;
+  border: 1px solid #333;
+  margin-left: 0 !important;
+  width: 100%;
+  left: 0 !important;
+}
+
+#dialog .inner {
+  padding: 30px;
+}
+
+#dialog input[type="text"] {
+  padding: 10px;
+  border: 1px solid #888;
+}
+
+#dialog textarea {
+  width: 96%;
+  padding: 10px;
+  border: 1px solid #888;
+}
+
+#dialog button {
+  padding: 10px;
+  width: 100%;
+}
+
+#dialog summary {
+  font-style: italic;
+  color: #999;
+}
+
+#add {
+  display: none;
+}
+
+header h1,
+header h5 {
+  margin: 0;
+}
+
+body > header {
+  margin-bottom: 10px;
+  padding: 10px;
+  background-color: #FFC336;
+}
+
+.fc-day {
+  position: relative;
+}
+
+.fc-day span {
+  position: absolute;
+  bottom: 0;
+  font-size: 15px;
+  display: block;
+  color: red;
+  font-weight: bold;
+}
+@media screen and (min-width: 720px) {
+  .fc-day span {
+    font-size: 40px;
+  }
+}
+
+#calendar table tbody {
+  background-color: #fff;
+}
+
+#calendar th.fc-day-header {
+  color: #fff;
+  background-color: #30D173;
+}
+
+#calendar h2 {
+  text-decoration: underline;
+  color: #BF1722;
+}
